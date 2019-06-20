@@ -24,9 +24,28 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/owl-carousel/owl-carousel/owl.carousel.css",
+              "node_modules/nouislider/distribute/nouislider.min.css",
+              "node_modules/owl.carousel/dist/assets/owl.carousel.css",
+              "node_modules/owl.carousel/dist/assets/owl.carousel.min.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/main.js",
+              "src/number.js",
+              "node_modules/jquery/dist/jquery.js",
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/popper.js/dist/umd/popper.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js",
+
+              "node_modules/fontawesome/index.js",
+
+              "node_modules/nouislider/distribute/nouislider.min.js",
+              "node_modules/owl-carousel/owl-carousel/owl.carousel.min.js",
+              "node_modules/owl.carousel/dist/owl.carousel.min.js",
+              "node_modules/svg4everybody/dist/svg4everybody.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -115,6 +134,7 @@
           }
         }
       }
-    }},
+    }
+  },
   "defaultProject": "sarasavinew"
 }
