@@ -360,7 +360,7 @@ h6 {
 
 .block-header__group--active, .block-header__group--active:focus, .block-header__group--active:hover {
   cursor: default;
-  box-shadow: inset 0 0 0 2px #ffd333
+  box-shadow: inset 0 0 0 2px #2a7ddb
 }
 
 .block-header__arrow, .block-header__arrows-list {
@@ -390,7 +390,7 @@ h6 {
 }
 
 .block-header__arrow:focus, .block-header__arrow:hover {
-  background: #ffd333;
+  background: #2a7ddb;
   fill: #3d464d
 }
 
@@ -627,8 +627,8 @@ h6 {
 }
 
 .btn-primary, .btn-primary.disabled, .btn-primary:disabled {
-  border-color: #ffd333;
-  background: #ffd333;
+  border-color: #2a7ddb;
+  background: #2a7ddb;
   color: #3d464d;
   fill: #3d464d
 }
@@ -639,8 +639,8 @@ h6 {
 
 .btn-primary.btn-loading:not(:disabled):not(.disabled), .btn-primary.btn-loading:not(:disabled):not(.disabled).active, .btn-primary.btn-loading:not(:disabled):not(.disabled):active {
   cursor: default;
-  border-color: #ffd333;
-  background: #ffd333
+  border-color: #2a7ddb;
+  background: #2a7ddb
 }
 
 .btn-secondary.focus, .btn-secondary:focus, .btn-secondary:hover {
@@ -916,7 +916,7 @@ select.form-control-lg, select.form-control-lg.is-invalid, select.form-control-l
 }
 
 .input-check__input:checked ~ .input-check__box {
-  background: #ffd333;
+  background: #2a7ddb;
   box-shadow: inset 0 0 0 1px rgba(0, 0, 0, .05)
 }
 
@@ -1129,7 +1129,7 @@ select.form-control-lg, select.form-control-lg.is-invalid, select.form-control-l
 }
 
 .input-radio__input:checked ~ .input-radio__circle {
-  background: #ffd333;
+  background: #2a7ddb;
   box-shadow: inset 0 0 0 1px rgba(0, 0, 0, .08)
 }
 
@@ -1289,7 +1289,7 @@ select.form-control-lg, select.form-control-lg.is-invalid, select.form-control-l
 
 .input-radio-label__list input:checked ~ span {
   cursor: default;
-  background: #ffd333;
+  background: #2a7ddb;
   color: #3d464d;
   transition-duration: .08s, .08s
 }
@@ -1344,8 +1344,8 @@ select.form-control-lg, select.form-control-lg.is-invalid, select.form-control-l
 
 .layout-switcher__button--active, .layout-switcher__button--active:hover {
   cursor: default;
-  border-color: #ffd333;
-  background: #ffd333;
+  border-color: #2a7ddb;
+  background: #2a7ddb;
   fill: #3d464d;
   z-index: 1
 }
@@ -1468,7 +1468,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 
 .noUi-connect {
   border-radius: 2px;
-  background: #ffd333
+  background: #2a7ddb
 }
 
 .noUi-horizontal .noUi-handle {
@@ -1489,7 +1489,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
   height: 6px;
   margin: 5px;
   border-radius: 3px;
-  background: #ffd333;
+  background: #2a7ddb;
   transition: transform .2s
 }
 
@@ -1563,7 +1563,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 }
 
 .page-item.active .page-link {
-  background: #ffd333;
+  background: #2a7ddb;
   color: #3d464d
 }
 
@@ -1976,7 +1976,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 
 .product-card:hover .product-card__quickview {
   transition-duration: 0s, 0s;
-  background: #ffd333
+  background: #2a7ddb
 }
 
 .product-card:hover .product-card__quickview:not(.product-card__quickview--preload) {
@@ -2606,7 +2606,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 }
 
 .rating__star--active .rating__fill {
-  color: #ffd333
+  color: #2a7ddb
 }
 
 .rating__star--active .rating__stroke {
@@ -2737,8 +2737,8 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 }
 
 .tags__list a:focus, .tags__list a:hover {
-  background: #ffd333;
-  border: 1px solid #ffd333;
+  background: #2a7ddb;
+  border: 1px solid #2a7ddb;
   color: #3d464d
 }
 
@@ -3760,7 +3760,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 }
 
 .mobile-header__panel {
-  background: #ffd333;
+  background: #2a7ddb;
   box-shadow: 0 1px rgba(0, 0, 0, .04), inset 0 -1px rgba(0, 0, 0, .04);
   color: #3d464d;
   position: relative
@@ -4409,7 +4409,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 
 .nav-panel {
   height: 54px;
-  background: #ffd333;
+  background: #2a7ddb;
   box-shadow: 0 1px rgba(0, 0, 0, .04), inset 0 -1px rgba(0, 0, 0, .04);
   color: #3d464d
 }
@@ -4541,7 +4541,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 }
 
 .search__input:hover ~ .search__button:hover {
-  fill: #ffd333
+  fill: #2a7ddb
 }
 
 .search__input:focus {
@@ -4563,7 +4563,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 
 .search__input:focus ~ .search__border {
   background: transparent;
-  box-shadow: inset 0 0 0 2px #ffd333
+  box-shadow: inset 0 0 0 2px #2a7ddb
 }
 
 .search__input:focus ~ .search__button {
@@ -4571,7 +4571,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 }
 
 .search__input:focus ~ .search__button:hover {
-  fill: #ffd333
+  fill: #2a7ddb
 }
 
 .search__button {
@@ -4594,7 +4594,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 
 .search__button:focus, .search__button:hover {
   outline: none;
-  fill: #ffd333
+  fill: #2a7ddb
 }
 
 .site-header {
@@ -4702,7 +4702,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 }
 
 .topbar__item--link + .topbar__item--link {
-  margin-left: 16px
+  margin-left: 16px;
 }
 
 .topbar-dropdown, .topbar-dropdown__btn {
@@ -5099,7 +5099,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 }
 
 .teammates .owl-carousel button.owl-dot.active {
-  color: #ffd333
+  color: #2a7ddb
 }
 
 .teammate__avatar img {
@@ -6571,7 +6571,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 }
 
 .product-gallery__carousel-item--active {
-  box-shadow: inset 0 0 0 2px #ffd333
+  box-shadow: inset 0 0 0 2px #2a7ddb
 }
 
 .product-tabs {
@@ -6624,7 +6624,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 
 .product-tabs__item--active, .product-tabs__item--active:hover {
   cursor: default;
-  border-bottom-color: #ffd333;
+  border-bottom-color: #2a7ddb;
   background: transparent
 }
 
@@ -8569,7 +8569,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
   width: 48px;
   height: 48px;
   margin-right: 20px;
-  fill: #ffd333
+  fill: #2a7ddb
 }
 
 .block-features__icon svg {
@@ -9824,7 +9824,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 }
 
 .block-slideshow .owl-carousel .owl-dot.active {
-  background: #ffd333
+  background: #2a7ddb
 }
 
 .block-slideshow .owl-carousel .owl-dot + .owl-dot {
@@ -10518,7 +10518,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 
 .widget-search__input:focus {
   outline: none;
-  box-shadow: inset 0 0 0 2px #ffd333
+  box-shadow: inset 0 0 0 2px #2a7ddb
 }
 
 .widget-search__input::-webkit-input-placeholder {
@@ -10558,7 +10558,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
 }
 
 .widget-search__button:focus, .widget-search__button:hover {
-  fill: #ffd333
+  fill: #2a7ddb
 }
 
 .widget-tags {
